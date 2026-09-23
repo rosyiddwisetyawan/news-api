@@ -45,7 +45,7 @@ Semua respons menggunakan format standar:
 
 ### 1. Masuk ke Direktori Project
 ```bash
-cd /.../news-api
+cd /../news-api
 ```
 
 ### 2. Aktifkan Virtual Environment & Jalankan Server
