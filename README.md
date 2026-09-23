@@ -71,7 +71,7 @@ curl "http://localhost:8000/api/articles?limit=5"
 
 ### 3. Mencari Berita dengan Kata Kunci
 ```bash
-curl "http://localhost:8000/api/articles?search=Polri"
+curl "http://localhost:8000/api/articles?search=Indonesia"
 ```
 
 ### 4. Mengambil Detail Satu Berita Berdasarkan ID
